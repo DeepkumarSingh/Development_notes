@@ -1,1 +1,17 @@
+What is DataBases?
+-> Its a collection of data which can be easily accessible by the authorization person
 
+Why we prefer databases?
+-> * can store large data
+  * features like security & scablility etc
+  * easier to insert,delete,update
+
+Types of databases?
+-> 1. SQL DB                                   2.NO-SQL DB
+*It is a relational db(stored in tables)        * NOn - Relational Databases(stored in docs/key-val/graphs etc)
+*ex- MYSQL , Orcale , POstgreSQL etc            * MongoDb, Cassandra, Neo4j etc
+
+What is SQL ? 
+-> SQL stands for (Structured Query language)
+-> SQL is a programming language used to interact with  relational databases
+ 
